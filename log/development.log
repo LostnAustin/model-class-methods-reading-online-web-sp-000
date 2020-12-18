@@ -1595,3 +1595,11 @@ Processing by PostsController#index as HTML
 Completed 200 OK in 177ms (Views: 156.4ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/posts/" for 70.112.163.24 at 2020-12-18 08:35:44 +0000
+Cannot render console from 70.112.163.24! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 15ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
